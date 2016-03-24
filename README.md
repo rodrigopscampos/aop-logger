@@ -5,4 +5,5 @@ Sample AOP Logger using Castle Project for intercept execution and writing on co
 
 Dependencies:
 Castle Windsor: https://github.com/castleproject/Windsor
+
 Nuget Package: Install-Package Castle.Windsor
